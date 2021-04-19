@@ -7,7 +7,7 @@ GEM
     liquid (3.0.6)
     multi_json (1.12.1)
     multi_markdown (0.2.0)
-    puma (3.6.0)
+    puma (3.12.6)
     rack (1.6.5)
     rack-protection (1.5.3)
       rack
