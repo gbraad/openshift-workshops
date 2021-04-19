@@ -8,7 +8,7 @@ GEM
     multi_json (1.12.1)
     multi_markdown (0.2.0)
     puma (3.6.0)
-    rack (1.6.5)
+    rack (1.6.13)
     rack-protection (1.5.3)
       rack
     sinatra (1.4.7)
